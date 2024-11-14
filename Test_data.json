@@ -1,0 +1,32 @@
+[
+    {
+        "item": "ABC",
+        "price": 10,
+        "quantity": 2,
+        "date": "2024-04-01"
+    },
+    {
+        "item": "XYZ",
+        "price": 20,
+        "quantity": 1,
+        "date": "2024-04-01"
+    },
+    {
+        "item": "ABC",
+        "price": 15,
+        "quantity": 3,
+        "date": "2024-04-02"
+    },
+    {
+        "item": "XYZ",
+        "price": 25,
+        "quantity": 4,
+        "date": "2024-04-02"
+    },
+    {
+        "item": "XYZ",
+        "price": 5,
+        "quantity": 10,
+        "date": "2024-04-03"
+    }
+]
